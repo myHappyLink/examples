@@ -1,0 +1,23 @@
+# Sv_carr: данные и изображения
+
+Контакты сверены с исходной таблицей и локальной базой; услуги и опубликованные цены проверены 11 ноября 2026 года.
+
+- https://2gis.ru/ekaterinburg/firm/70000001099126611
+- https://2gis.ru/ekaterinburg/firm/70000001099126611/tab/prices
+
+Дата прайса: 28 апреля 2025. Стоимость требуется подтвердить перед заказом.
+
+## Оговорки
+
+- Восточная51,ПАRКОВ,4этаж по исходнойбазе. Прайс опубликован28.04.2025; цены нужно подтвердить перед заказом.
+- Материал оклейки в названии позиции не уточнён: не утверждать, что50тыс — полная полиуретановая оклейка.
+
+## Изображения
+
+Это лицензионные стоковые иллюстрации для демо, обозначенные на странице «Пример». Они не представлены как работы или сотрудники этой студии. До/после — демонстрация интерфейса на одной иллюстрации.
+
+- hero-bmw.jpg — https://unsplash.com/photos/a-black-car-is-parked-in-front-of-a-garage-neQ8jcGFfOA; автор Rana Singh; Unsplash License (https://unsplash.com/license)
+- polishing-white.jpg — https://www.pexels.com/photo/a-person-polishing-the-white-car-5233279/; автор Khunkorn Laowisit; Pexels License (https://www.pexels.com/license/)
+- polishing-dark.jpg — https://www.pexels.com/photo/person-polishing-the-surface-of-a-car-14615262/; автор Dextar Studio; Pexels License (https://www.pexels.com/license/)
+- interior.jpg — https://www.pexels.com/photo/modern-car-in-black-interior-7290401/; автор Mike Bird; Pexels License (https://www.pexels.com/license/)
+- wax.jpg — https://www.pexels.com/photo/person-waxing-a-car-6026083/; автор Orhun Rüzgar ÖZ; Pexels License (https://www.pexels.com/license/)

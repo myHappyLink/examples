@@ -1,0 +1,36 @@
+# В репозиторий попадают только файлы этого сайта.
+/*
+!/.gitignore
+!/.nojekyll
+!/robots.txt
+!/index.html
+!/styles.css
+!/script.js
+!/site-data.js
+!/lead-form.css
+!/lead-form.js
+!/assets/
+!/assets/**
+!/wordpress/
+!/wordpress/**
+!/README.md
+!/SOURCES.md
+!/CONTENT-SOURCES.md
+
+# Локальные настройки, зависимости, сборки и временные файлы.
+**/.git/
+**/.openai/
+**/.sites-runtime/
+**/.vscode/
+**/.idea/
+**/node_modules/
+**/dist/
+**/.env
+**/.env.*
+**/*.log
+**/*.tmp
+**/*.bak
+**/~$*
+**/.DS_Store
+**/Thumbs.db
+**/desktop.ini

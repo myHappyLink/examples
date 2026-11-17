@@ -1,0 +1,45 @@
+# По умолчанию всё остаётся локально.
+/*
+!/.gitignore
+!/index.html
+!/.nojekyll
+
+# Независимые сайты. Для новых папок используйте имя, заканчивающееся на -site.
+!/*-site/
+/*-site/*
+!/*-site/.gitignore
+!/*-site/.nojekyll
+!/*-site/robots.txt
+!/*-site/index.html
+!/*-site/styles.css
+!/*-site/script.js
+!/*-site/site-data.js
+!/*-site/lead-form.css
+!/*-site/lead-form.js
+!/*-site/assets/
+!/*-site/assets/**
+!/*-site/wordpress/
+!/*-site/wordpress/**
+
+# Инструкции конкретного сайта и источники его изображений.
+!/*-site/README.md
+!/*-site/SOURCES.md
+!/*-site/CONTENT-SOURCES.md
+
+# Служебные файлы не публикуются даже внутри разрешённых папок.
+**/.git/
+**/.openai/
+**/.sites-runtime/
+**/.vscode/
+**/.idea/
+**/node_modules/
+**/dist/
+**/.env
+**/.env.*
+**/*.log
+**/*.tmp
+**/*.bak
+**/~$*
+**/.DS_Store
+**/Thumbs.db
+**/desktop.ini

@@ -1,0 +1,10 @@
+/* Общие состояния формы. В каждый сайт копируется собственный файл. */
+.booking-form .form-consent,#booking-form .form-consent{display:flex;align-items:flex-start;gap:12px;margin:22px 0;font-size:14px;line-height:1.7;letter-spacing:0;color:inherit;cursor:pointer}
+#booking-form .form-consent input{appearance:auto;flex:0 0 20px;width:20px;height:20px;min-height:20px;margin:3px 0 0;padding:0;accent-color:var(--accent,var(--lime));border:1px solid currentColor}
+#booking-form .form-consent span{font-size:14px;color:inherit;margin:0}
+#booking-form .lead-trap{position:absolute;left:-10000px;width:1px;height:1px;overflow:hidden}
+#booking-form .form-status{font-size:15px;line-height:1.75;margin:18px 0 0;padding:16px 18px;border:1px solid #71808e;border-radius:5px;background:#ffffff08;color:#edf2f6;overflow-wrap:anywhere}
+#booking-form .form-status[data-state="success"]{border-color:#a4d77a;background:#a4d77a12;color:#d3f1b8}
+#booking-form .form-status[data-state="error"]{border-color:#dd9b85;background:#dd9b8510;color:#f5c1b0}
+#booking-form [type="submit"]:disabled{cursor:default;opacity:.75}
+#booking-form textarea{display:block;width:100%;min-height:100px;resize:vertical;font:inherit;font-size:16px;padding:14px;background:var(--panel,#20281d);border:1px solid var(--line,#ffffff30);color:inherit;border-radius:4px}
